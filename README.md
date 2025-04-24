@@ -62,7 +62,7 @@
 
 <div class="container">
     <section class="book-info">
-        <img src="https://example.com/to-kill-a-mockingbird-cover.jpg" alt="앵무새 죽이기 책 표지">
+        <img src="https://contents.kyobobook.co.kr/sih/fit-in/458x0/pdt/9788932917207.jpg" alt="앵무새 죽이기 책 표지">
         <h2>저자: 하퍼 리</h2>
         <p><strong>책 제목:</strong> 앵무새 죽이기 (To Kill a Mockingbird)</p>
         <p><strong>출판년도:</strong> 1960년</p>
